@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./flash.html"
   },
   {
-    "revision": "5257a95ba63058ff3336b03453b57537",
+    "revision": "bfc8637c8df717388c78faef03552068",
     "url": "./index.html"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/flash.6e8bc46d.chunk.css"
   },
   {
-    "revision": "96f9d7787bf81c517619",
-    "url": "./static/css/index.afcea920.chunk.css"
+    "revision": "9a1ae484e6310b9b3247",
+    "url": "./static/css/index.ccf35347.chunk.css"
   },
   {
     "revision": "84d63af9f7d3ded85507",
@@ -152,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/flash.231999e3.chunk.js"
   },
   {
-    "revision": "96f9d7787bf81c517619",
-    "url": "./static/js/index.9ac150d1.chunk.js"
+    "revision": "9a1ae484e6310b9b3247",
+    "url": "./static/js/index.14acfa38.chunk.js"
   },
   {
     "revision": "8cea034101ad4935e429",
@@ -1412,12 +1412,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/JianKeMaoBiXingShu.fddf0f0f.eot"
   },
   {
+    "revision": "2c6f7fa9463260f0a57de4c5858f953f",
+    "url": "./static/media/ShiGuangManManZou.2c6f7fa9.eot"
+  },
+  {
     "revision": "3922f41f63af5b65f5d9464849f63a53",
     "url": "./static/media/ShiGuangManManZou.3922f41f.eot"
   },
   {
+    "revision": "3f73b26306cea3ab9c4b17b2f89874c0",
+    "url": "./static/media/ShiGuangManManZou.3f73b263.woff"
+  },
+  {
+    "revision": "430d80867805d41b6883ae8cdc0513ee",
+    "url": "./static/media/ShiGuangManManZou.430d8086.woff2"
+  },
+  {
     "revision": "758f8b6749429cab016e7b7e22de5695",
     "url": "./static/media/ShiGuangManManZou.758f8b67.ttf"
+  },
+  {
+    "revision": "a0f8f595dd46633049f685e00955457e",
+    "url": "./static/media/ShiGuangManManZou.a0f8f595.ttf"
   },
   {
     "revision": "d6cdeec07a6e73ad2a819372ab025278",
